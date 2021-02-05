@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F32F4DA25C9E54C00BC2864 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F32F4D925C9E54C00BC2864 /* Extensions.swift */; };
 		7F87BB3E25C46DE2008AF2FF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F87BB3D25C46DE2008AF2FF /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7F32F4D925C9E54C00BC2864 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		7F87BB3A25C46DE2008AF2FF /* PerimeterAreaVolumeHelper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PerimeterAreaVolumeHelper; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F87BB3D25C46DE2008AF2FF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +43,7 @@
 		7F87BB3125C46DE2008AF2FF = {
 			isa = PBXGroup;
 			children = (
+				7F32F4D925C9E54C00BC2864 /* Extensions.swift */,
 				7F87BB3C25C46DE2008AF2FF /* PerimeterAreaVolumeHelper */,
 				7F87BB3B25C46DE2008AF2FF /* Products */,
 			);
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F87BB3E25C46DE2008AF2FF /* main.swift in Sources */,
+				7F32F4DA25C9E54C00BC2864 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
